@@ -1,0 +1,8 @@
+D:\Proyectos Progra III\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\Proyectos Progra III\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\Proyectos Progra III\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\Proyectos Progra III\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+D:\Proyectos Progra III\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos Progra III\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Proyectos Progra III\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\Proyectos Progra III\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
